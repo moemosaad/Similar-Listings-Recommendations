@@ -9,6 +9,7 @@ This project was developed to gain a fundemental understanding of service-orient
 
 
 ### Installing
+
 To install dependencies, run 
 
   ```
@@ -17,6 +18,12 @@ To install dependencies, run
   
 
 ## Running the tests
+
+In Similar-Listings-Recommendations directory, run 
+
+  ```
+  node run test
+  ```
 
 ## Screenshots
 
