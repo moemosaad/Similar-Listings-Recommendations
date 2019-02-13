@@ -7,11 +7,14 @@ This project was developed to gain a fundemental understanding of service-orient
 
 ### Prerequisites
 
-At least 5 Amazon EC2 instances with static ip addresses is preferred for the deployment of this service. 
-1 for the load balancer, 1 for the database server, and 3 or more for microservice instances.
 
 ### Installing
+To install dependencies, run 
 
+  ```
+  npm install
+  ```
+  
 
 ## Running the tests
 
@@ -25,21 +28,15 @@ Include logo/demo screenshot etc.
 
 To start web service
 
-  1. To install dependencies, run 
-  
-  
-  2. To establish port forwarding, run
+  1. To establish port forwarding, run
   ```
   sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 3011
   ```
 
-  3. In Similar-Listings-Recommendations directory, run
+  2. In Similar-Listings-Recommendations directory, run
   ```
   npm run dev
   ```
-
-To start database
-
 
 ## Built with
 
