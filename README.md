@@ -51,7 +51,7 @@ To start web service
 
 * React
 * NodeJs/Express
-* PostgreSQL
+* MongoDB
 
 #### Features
 
