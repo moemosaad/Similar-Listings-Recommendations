@@ -3,7 +3,7 @@ This is a monolithic application for a recommendation component.
 
 ## Motivation
 
-This project was developed to gain a fundemental understanding of service-oriented architecture.
+This project was developed to gain a fundamental understanding of service-oriented architecture.
 
 ### Prerequisites
 
