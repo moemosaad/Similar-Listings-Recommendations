@@ -5,9 +5,6 @@ This is a monolithic application for a recommendation component.
 
 This project was developed to gain a fundamental understanding of service-oriented architecture.
 
-### Prerequisites
-
-
 ### Installing
 
 To install dependencies, run 
@@ -16,7 +13,6 @@ To install dependencies, run
   npm install
   ```
   
-
 ## Running the tests
 
 In Similar-Listings-Recommendations directory, run 
@@ -24,10 +20,6 @@ In Similar-Listings-Recommendations directory, run
   ```
   node run test
   ```
-
-## Screenshots
-
-Include logo/demo screenshot etc.
 
 ## Deployment
 
