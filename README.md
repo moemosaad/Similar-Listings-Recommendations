@@ -1,5 +1,5 @@
 # Similar_Listings_Recommendations
-This is a monolithic application for a recommendation component.
+This is a microservice for a similar listings component.
 
 ## Motivation
 
